@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>ask_for_approval</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Ask for Approval</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-21 11:51:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e6ff41752fbd0510ab962d5df699b65e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ask for Approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_e6ff41752fbd0510ab962d5df699b65e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-21 11:51:45</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=e6ff41752fbd0510ab962d5df699b65e"/>
+    <sys_variable_value action="DELETE" query="document_key=e6ff41752fbd0510ab962d5df699b65e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>604621fddb3cffc049eac597059619b4</instance_id>
+        <instance_name>dev80915</instance_name>
+        <name>sys_hub_action_type_definition_e6ff41752fbd0510ab962d5df699b65e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition"><sys_hub_action_type_definition action="INSERT_OR_UPDATE"><access>public</access><acls/><action_status/><action_template/><active>true</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description/><ih_action>false</ih_action><internal_name>ask_for_approval</internal_name><label_cache/><latest_snapshot/><master_snapshot/><name>Ask for Approval</name><natlang/><outputs/><state>draft</state><sys_class_name>sys_hub_action_type_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-21 11:51:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e6ff41752fbd0510ab962d5df699b65e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ask for Approval</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_hub_action_type_definition_e6ff41752fbd0510ab962d5df699b65e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-21 11:51:45</sys_updated_on><system_level>false</system_level><type/></sys_hub_action_type_definition><sys_translated_text action="delete_multiple" query="documentkey=e6ff41752fbd0510ab962d5df699b65e"/><sys_variable_value action="delete_multiple" query="document_key=e6ff41752fbd0510ab962d5df699b65e"/></record_update>]]></payload>
+        <payload_hash>1652270889</payload_hash>
+        <record_name>Ask for Approval</record_name>
+        <reverted_from/>
+        <source>bf15a7402ff10110ab962d5df699b6ad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-21 11:51:45</sys_created_on>
+        <sys_id>36ff41752fbd0510ab962d5df699b663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f1c1f91d60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-21 11:51:45</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>7eff4175f7bd0510afd1660bdd6a0162</update_guid>
+        <update_guid_history>7eff4175f7bd0510afd1660bdd6a0162:1652270889</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-21 11:56:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>45611aef0c024bbc907b6ecc9dc9d399</sys_id>
+        <sys_metadata>e6ff41752fbd0510ab962d5df699b65e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ask for Approval</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_e6ff41752fbd0510ab962d5df699b65e</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_e6ff41752fbd0510ab962d5df699b65e">36ff41752fbd0510ab962d5df699b663</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-21 11:56:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
